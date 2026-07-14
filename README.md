@@ -373,5 +373,7 @@ MIT — free to use for learning or commercial projects.
 4. Open a pull request
 
 ---
+### Author
+PRANEETH GOWD SRISAILAM
 
 *Made with ❤️ to connect blood donors and seekers.*
